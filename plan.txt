@@ -1,0 +1,16 @@
+control flow 
+    execution of piece of code in some codition
+
+if
+else
+if else
+switch - this executes a piece with a possible value
+        case-which condition to be executed
+        break- terminate the program execution.
+        default- default output
+
+iteration/loop
+    for loop
+    while loop
+
+for(initialization; condition, ++, --):
